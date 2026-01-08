@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/status-finalizado-brightgreen) ![Projeto](https://img.shields.io/badge/projeto-portfólio-purple) ![Linguagem](https://img.shields.io/badge/linguagem-JavaScript-yellow)
+![Status](https://img.shields.io/badge/status-finalizado-brightgreen) ![Linguagem](https://img.shields.io/badge/linguagem-JavaScript-yellow)
 
 # 🕹️ Jogo do Número Secreto
 
