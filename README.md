@@ -28,4 +28,4 @@ Um jogo interativo de adivinhação desenvolvido durante o curso de Lógica de P
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/raphaelsette/js-curso-2-aula1.git](https://github.com/raphaelsette/js-curso-2-aula1.git)
+   git clone https://github.com/raphaelsette/js-curso-2-aula1.git
