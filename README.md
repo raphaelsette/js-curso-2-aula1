@@ -26,8 +26,6 @@ Um jogo interativo de adivinhação desenvolvido durante o curso de Lógica de P
 3. Siga as dicas na tela para ajustar seu próximo palpite.
 4. Ao acertar, você verá o número de tentativas e poderá iniciar um **"Novo jogo"**.
 
-## 💻 Como Rodar o Projeto
+## 💻 Como Visualizar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/raphaelsette/js-curso-2-aula1.git
+O projeto pode ser acessado diretamente através do GitHub Pages: 👉 https://raphaelsette.github.io/js-curso-2-aula1/
