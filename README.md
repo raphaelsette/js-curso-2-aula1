@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-finalizado-brightgreen) ![Projeto](https://img.shields.io/badge/projeto-portfólio-purple) ![Linguagem](https://img.shields.io/badge/linguagem-JavaScript-yellow)
+
 # 🕹️ Jogo do Número Secreto
 
 Um jogo interativo de adivinhação desenvolvido durante o curso de Lógica de Programação da Alura. O projeto utiliza JavaScript para manipular o DOM, gerenciar a lógica do jogo e possui integração com sintetizador de voz.
