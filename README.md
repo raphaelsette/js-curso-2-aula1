@@ -29,3 +29,5 @@ Um jogo interativo de adivinhação desenvolvido durante o curso de Lógica de P
 ## 💻 Como Visualizar
 
 O projeto pode ser acessado diretamente através do GitHub Pages: 👉 https://raphaelsette.github.io/js-curso-2-aula1/
+
+<img src="./img/screenshots/print_1.png" width="800px">
